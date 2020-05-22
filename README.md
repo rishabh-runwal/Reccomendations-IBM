@@ -22,3 +22,8 @@ In order to build better recommendations for the users of IBM's platform, we cou
 4. Matrix Factorization
 
 - Using the user-item interactions, build out a matrix decomposition. Using decomposition, evaluate performance.
+## Libraries Used:
+Pandas: For Data Wrangling  
+numpy: For Effecient Data Processing  
+matplotlib: For Data Visualising  
+pickle: For writing down the serialized byte stream to disk
